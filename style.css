@@ -8,9 +8,15 @@ img {
     width: 25px;
 }
 
-td:nth-child(5) {
-    color:blueviolet
+.positive {
+    color: #76ff15;
+    font-weight: 500
 }
+.negative {
+    color: #f91f1f;
+    font-weight: 500;
+}
+
 
 .table-group-divider {
     border-top: none;
